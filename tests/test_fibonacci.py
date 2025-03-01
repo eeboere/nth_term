@@ -1,4 +1,4 @@
-from sequence.fibonacci import fibonacci
+from ..sequence.fibonacci import fibonacci
 import pytest
 
 
