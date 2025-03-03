@@ -2,7 +2,7 @@ def main():
     # Container with options and messages
     options = {}
 
-    print("Mathematical Sequence Solver")
+    print("Mathematical Sequence Printer")
     for key, value in options.items():
         print(f"{key}: {value['name']}")
 
